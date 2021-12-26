@@ -1,1 +1,1 @@
-# tasty-cake-recepies-catalogue
+# tasty-cake-recipes-catalogue
